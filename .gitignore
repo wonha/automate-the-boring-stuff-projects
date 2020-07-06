@@ -149,3 +149,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# I don't know what is this, but fetched from https://github.com/kudeh/automate-the-boring-stuff-projects/blob/master/.gitignore
+*geckodriver.log
